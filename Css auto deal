@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(11, 195, 219);
+    
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+p.abt{
+    float: right;
+    display: inline;
+}
+img{
+    float:right;
+}
