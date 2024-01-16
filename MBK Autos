@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="UTF-8">
+        <meta name="author" content="Oyejide mubarak">
+        <meta name="description" content="This Page consist of the AutoMobile I sell">
+    </head>
+    <title>MBK Autos</title>
+    <link rel="stylesheet" href="main.css">
+    <body>
+        
+       <h1>MBK Autos</h1>
+        <h1>Hey,I'm an Auto-Dealer</h1>
+    <nav>
+        <ul>
+            <li><a href="#About">About</a></li>
+            <li><a href="#Services">Our Services</a></li>
+            <li><a href="#Contact">Contact Me</a></li>
+
+        </ul>
+    </nav>
+        
+      
+        <hr>
+        
+        <h2 id="About">ABOUT US</h2>
+        <p class="abt">
+    <img src="Steering.jpg" alt="this is benz" height="500px">
+     In Line with the aim and Objective of creating a better Place of Steady Economical Growth and Development,
+       <b>MBK Autos </b>has foster and brought up an Automobile Store where we give the Utmost Satisfaction
+         to our customer by giving them <b>Quality</b> and a Travel-safe cars.
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        Founded in 2015 by Mubarak Oyejide, MBK is a valued Car Dealer in Lagos State,Nigeria.
+         Our gorgeous showroom is home to the latest models and like-new pre-owned vehicles.
+          We also offer frequent special deals on specific lines on our lot. We are committed to providing quality service to all of our customers, from first-time buyers to seasoned owners.
+         Our financing options make it easy for everyone to buy the vehicle of their dreams.
+          Our professional and honest staff is ready to answer all of your questions, take you for a test drive, and hand you the keys to your new vehicle!
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          Since 2015, MBK has been a leading Car Dealer in the Nigeria Economy sector.
+          At our dealership, we are committed to providing quality service to all of our customers - from first-time buyers to experienced vehicle owners.
+           Our financing options make it easy for everyone to buy the vehicle of their dreams.
+<hr>
+<img src="car wash 2.webp" alt="Car Wash" width="400px" height="300px">
+<h2 id="our Services">Our Services</h2>
+
+         <p>At MBK Autos,We Offer:</p>
+         <ul class="b">
+            <li>Cars at Affordable Rate</li>
+            <li>Repairs and Sevices</li>
+            <li>Car Delivery to your Doorsteps</li>
+            <li>Sales of Lubricants and Oils </li>
+            <li>Interior and Exterior Car wash</li>
+         </ul>
+       <br><br><br><br><br><br>
+         <hr>
+   
+        <h2 id="Contact">CONTACT ME</h2>
+        <form action="get" method="POST">
+           <fieldset>
+            <legend>Personal Information</legend>
+           <p><label for="First name">First Name:</label> 
+           <input type="text" name="First name" id="Firstname" placeholder="First name" autocomplete="on" autofocus required>
+        </p>
+           <p><label for="Last name">Last Name:</label> 
+           <input type="text" name="Last name" id="lastname" placeholder="Last name" autocomplete="on">
+        </p>
+        <p>
+        <p><label for="phone">Phone:</label> 
+            <input type="tel" name="phone" id="phone" placeholder="555555555555" pattern="[0-9]{3} [0-9]{3}[0-9]{4}">
+         </p>
+        </fieldset>
+<fieldset>
+    <legend>Send Me A Note</legend>
+        <p><label for="message">Your Message"</label></p>
+        <textarea name="message" id="message" cols="30" rows="10" placeholder="Type your message here"></textarea>
+    </fieldset>
+    <button type="submit">Submit</button>
+
+    
+           
+        </form>
+
+        <img src="car tyre.jpg" alt="This is a car tyre">
+       <p>VISIT OUR SHOWROOM</p> 
+       <p>Opening Hours</p> 
+        
+       <p>Mon - Fri: 9am - 6pm</p> 
+       <p>Sat: 10am - 2pm</p>
+       <p>Sun: Closed</p> 
+    </body>
+    <a href="#">Back to Top</a>
+    <p>&lt;&lt;&lt;&copy;Mubarak Oyejide &gt;&gt;&gt;</p>
+    
+</html>
